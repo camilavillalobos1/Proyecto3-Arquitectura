@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 24 22:36:27 2020
-
-@author: camilavillalobos
-"""
 
 try:
     file = open("Incorrecto.txt", 'r')
